@@ -61,11 +61,11 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [一次 K8s 控制平面全面瘫痪的复盘：从一条 Prometheus EOF 到 etcd Quorum 丢失](https://keriko-blog.pages.dev/posts/k8s-control-plane-outage) · Mon Sep 28 2026 12:00 AM
 - [EVA：从测试 Harness 到工程验证架构](https://keriko-blog.pages.dev/posts/eva-engineering-validation-architecture) · Mon Aug 31 2026 12:00 AM
 - [UCM 缓存系统：面向混合模型的分层设计报告](https://keriko-blog.pages.dev/posts/ucm-hybrid-cache-design) · Fri Aug 28 2026 12:00 AM
 - [LLM 注意力机制与架构演进](https://keriko-blog.pages.dev/posts/llm-attention-mechanism) · Sat Aug 22 2026 12:00 AM
-- [Jenkins 流水线异步调用与跨流水线通信完全指南](https://keriko-blog.pages.dev/posts/017-jenkins-async-pipeline) · Mon Jun 08 2026 12:00 AM
-- [从磁盘 I/O 到 B+树索引：一次被面试问深的学习之旅](https://keriko-blog.pages.dev/posts/009-btree-index) · Wed Jun 03 2026 12:00 AM<!-- BLOG-POST-LIST:END -->
+- [Jenkins 流水线异步调用与跨流水线通信完全指南](https://keriko-blog.pages.dev/posts/017-jenkins-async-pipeline) · Mon Jun 08 2026 12:00 AM<!-- BLOG-POST-LIST:END -->
 
 ## 📬 Links
 
